@@ -15,6 +15,7 @@ int main()
 
 	while (1)
 	{
+
 		cv::Mat frame;
 		cv::Mat SobelMat;
 		cap.read(frame);
